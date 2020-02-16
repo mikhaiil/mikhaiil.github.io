@@ -264,7 +264,7 @@ a:hover, a:active, a:focus {
     position: relative;
     text-align: center;
     padding-top: 60px;
-    padding-bottom: 40px;
+    padding-bottom: 0px;
 }
 
 #home hr {
