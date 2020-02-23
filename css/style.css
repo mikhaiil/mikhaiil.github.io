@@ -57,6 +57,10 @@ strong {
   border-color: transparent;
 }
 
+#email {
+  color: #5bb58c;
+}
+
 
 /*---------------------------------------
     General               
@@ -66,15 +70,17 @@ html{
   -webkit-font-smoothing: antialiased;
 }
 
+/* previous color was #4d638c --> */
+
 a {
-  color: #4d638c;
+  color: #75e6b2;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
   text-decoration: none !important;
 }
 a:hover, a:active, a:focus {
-  color: #4d638c;
+  color: #5bb58c;
   outline: none;
 }
 
