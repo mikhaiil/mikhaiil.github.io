@@ -367,7 +367,9 @@ a:hover, a:active, a:focus {
   padding-top: 62px;
 }
 
-
+.servicepadding {
+  padding-top: 42px;
+}
 
 /*---------------------------------------
    Single Project section              
